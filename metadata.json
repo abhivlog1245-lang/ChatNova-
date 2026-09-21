@@ -1,0 +1,9 @@
+{
+  "name": "ChatNova",
+  "description": "Interactive AI companion chatbot with instant bilingual responses in Hindi, English, and Hinglish, featuring rule-based and Gemini AI modes.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
